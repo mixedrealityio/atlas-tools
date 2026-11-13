@@ -102,7 +102,8 @@ REPOS = [("maths", MATHS_UP, MATHS_LAST, "maths"),
          ("annales", os.path.expanduser("~/annales-upstream"), os.path.expanduser("~/annales-upstream.last"), "annales"),
          ("complements", os.path.expanduser("~/atlas-complements-upstream"), os.path.expanduser("~/atlas-complements-upstream.last"), "complements"),
          ("ia", os.path.expanduser("~/atlas-ia-upstream"), os.path.expanduser("~/atlas-ia-upstream.last"), "ia"),
-         ("3d", os.path.expanduser("~/atlas-3d-upstream"), os.path.expanduser("~/atlas-3d-upstream.last"), "3d")]
+         ("3d", os.path.expanduser("~/atlas-3d-upstream"), os.path.expanduser("~/atlas-3d-upstream.last"), "3d"),
+         ("ingenieur", os.path.expanduser("~/atlas-ingenieur-upstream"), os.path.expanduser("~/atlas-ingenieur-upstream.last"), "ingenieur")]
 SHEET_LINKS = [("maths", '<span>Collège · lycée · MPSI</span>', '<span><a href="equations/index.html" style="color:inherit">Feuille d’équations</a> · Collège · lycée · MPSI</span>'),
                ("chimie", '</span></header>', '<a class="gh" href="equations/">équations</a></span></header>'),
                ("complements", '</span></header>', '<a class="gh" href="equations/">équations</a></span></header>')]
